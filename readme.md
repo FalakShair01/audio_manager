@@ -69,10 +69,10 @@ You can filter audio clips using query parameters:
 - `GET /api/audio/?description=XYZ`
 - `GET /api/audio/?title=ABC&description=XYZ`
 
-## File Validation
+## File Validation Reference
 
 Audio file uploads are validated for file type and size:
-- **File Type:** Only accepts certain file types. See [file validation reference](https://stackoverflow.com/questions/3648421/only-accept-a-certain-file-type-in-filefield-server-side).
+- [file validation reference](https://stackoverflow.com/questions/3648421/only-accept-a-certain-file-type-in-filefield-server-side).
 
 ## Future Enhancements
 
